@@ -1,0 +1,46 @@
+/*nav*/
+body{
+	margin: auto 0;
+}
+.zone{
+	/*display: inline-block;*/
+	/*padding: 30px 50px;*/
+	cursor: progress;
+	/*margin: 40px 60px;*/
+	border: 1px solid #bbb;
+	border-radius: 4px;
+	font-size: 1em;
+	color: #fff;
+	/*transition: all 0.2s linear;*/
+
+	
+}
+
+h1{
+	font-size: 3em;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	font-family: fantasy;
+}
+
+.main-nav{
+	display: flex;
+	list-style: none;
+	font-size: 0.4em
+	margin 0;
+
+}
+.meat{
+	margin-left: auto;
+}
+
+li{
+	padding: 10px;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+}
